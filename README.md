@@ -4,6 +4,8 @@ Control of a pendulum in real-time. The script simulates a real-time test of a c
 
 Code created to support a Linkedin post. Follow me on Linkedin! https://www.linkedin.com/in/simone-bertoni-control-eng/
 
+Link to the original post: https://www.linkedin.com/posts/simone-bertoni-control-eng_controlsystems-embeddedsystems-softwareengineering-activity-7031170171515863040-ZbU-?utm_source=share&utm_medium=member_desktop
+
 Transform control engineering into a game!
 
 Control theory, Python, and a pinch of coding.
